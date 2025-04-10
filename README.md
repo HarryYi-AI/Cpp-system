@@ -15,3 +15,9 @@
 * 查看往届记录：查看之前比赛前三名结果，每次比赛都会记录到文件中，文件用.csv后缀名保存
 * 清空比赛记录：将文件中数据清空
 * 退出比赛程序：可以退出当前程序
+
+
+最终效果图
+![image](https://github.com/user-attachments/assets/e13fb47a-da7a-486d-818c-b3d5bfbccb0b)
+
+![image](https://github.com/user-attachments/assets/5c1f66e5-247c-4a55-a485-875daac2b8a0)
